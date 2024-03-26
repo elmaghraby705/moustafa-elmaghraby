@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" src="https://user-images.githubusercontent.com/99876749/204871672-98eeac12-1d33-4f4a-9aa3-c0d820b6d942.gif"  />
+  <img height="350" src="https://user-images.githubusercontent.com/99876749/204871672-98eeac12-1d33-4f4a-9aa3-c0d820b6d942.gif"  />
 </div>
 
 ###
@@ -17,7 +17,6 @@
 <img align="right" height="250" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"  />
 
 ###
-<br>
 <br>
 <h3 align="left">- 👀 I’m interested in Web Development.<br>- 🌱 I’m currently learning Full stack developing.<br>- 🙋‍♂️ I’m looking to collaborate on Web Development.<br>- 💞️Love to help everyone just ask dont be shy.<br>- 🖥️Besides Coding iam Network Engineer /Sys Admin<br>- 🎮Fun fact about me iam A Gamer</h3>
 
@@ -81,6 +80,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
 ###
