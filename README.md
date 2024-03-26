@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="350" src="https://user-images.githubusercontent.com/99876749/204871672-98eeac12-1d33-4f4a-9aa3-c0d820b6d942.gif"  />
+  <img height="300" src="https://user-images.githubusercontent.com/99876749/204871672-98eeac12-1d33-4f4a-9aa3-c0d820b6d942.gif"  />
 </div>
 
 ###
@@ -18,6 +18,7 @@
 
 ###
 <br>
+
 <h3 align="left">- 👀 I’m interested in Web Development.<br>- 🌱 I’m currently learning Full stack developing.<br>- 🙋‍♂️ I’m looking to collaborate on Web Development.<br>- 💞️Love to help everyone just ask dont be shy.<br>- 🖥️Besides Coding iam Network Engineer /Sys Admin<br>- 🎮Fun fact about me iam A Gamer</h3>
 
 ###
