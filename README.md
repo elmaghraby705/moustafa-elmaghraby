@@ -1,5 +1,9 @@
 
-<h2 align="center">Hi, I’m  👋 Moustafa-Elmaghraby</h2>
+<h2 align="center">Hi, I’m  👋 
+          <span style="color:#003366;"> Moustafa-Elmaghraby  &#x1F1EA;&#x1F1EC;</span> 
+       </h2>
+        
+      
 
 ###
 
