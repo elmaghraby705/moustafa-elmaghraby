@@ -1,5 +1,5 @@
 
-<h2 align="center">Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I'm Moustafa-Elmaghraby &#x1F1EA;&#x1F1EC;
+<h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I'm Moustafa-Elmaghraby &#x1F1EA;&#x1F1EC; <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">
        </h2>
         
       
@@ -29,7 +29,7 @@
 ###
 
 <br clear="both">
-<h4 align="left">Contact with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"></h4>
+<h4 align="left">Contact with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"></h4>
 
 ###
 
@@ -55,7 +55,9 @@
 
 ###
 
-<h4 align="left">Languages and Tools:<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"></h4>
+<h4 align="left">Languages and Tools:<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40px">
+
+</h4>
 
 ###
 
