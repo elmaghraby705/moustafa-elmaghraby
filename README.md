@@ -39,23 +39,26 @@
 <br clear="both">
 
 <div align="left">
+ 
   <a href="https://www.linkedin.com/in/moustafa-elmaghraby/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  />
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" height="60" alt="linkedin logo"  />
   </a>
-
  
   <a href="https://www.facebook.com/elmaghraby.egy/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="60" height="50" alt="facebook logo"  />
+    <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="60" height="60" alt="facebook logo"  />
   </a>
-  <a href="https://twitter.com/elmaghraby_egy" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="60" height="50" alt="twitter logo"  />
+  
+
+ <a href="https://twitter.com/elmaghraby_egy/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="60" height="60" alt="instagram logo"  />
   </a>
+
+
   <a href="https://www.instagram.com/elmaghraby.eg/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="30" alt="instagram logo"  />
-  </a>
-  <a href="https://t.me/elmaghraby705" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="45" height="30" alt="telegram logo"  />
-  </a>
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" height="60" alt="instagram logo"  />
+  
+
+ 
 </div>
 
 ###
